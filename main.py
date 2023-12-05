@@ -4,5 +4,6 @@
 
 def main():
     print('プルリクエストサンプル')
+    print('新機能１')
 
 main()
